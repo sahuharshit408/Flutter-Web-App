@@ -95,4 +95,4 @@ To get started with the Flutter Web App, follow these steps:
 - **User Data Privacy**: The app focuses on secure data handling, especially for user account information and billing details.
 - **Responsive Design**: The app is designed to be responsive, ensuring a consistent experience across different devices and screen sizes.
 
-Thank you for exploring the Flutter Web App! We welcome any feedback and contributions to help improve the project.
+I appreciate your interest in the Flutter Web App! Your feedback and contributions are highly valued and will help enhance the project.
